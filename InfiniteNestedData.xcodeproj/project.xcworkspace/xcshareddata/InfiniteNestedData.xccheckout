@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>87F5E698-2653-48BB-B91E-DE2381BFED8B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>InfiniteNestedData</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>47E0380A297F41F524D220C888549FD5F57438C9</key>
+		<string>github.com:voidet/InfiniteNestedData.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>InfiniteNestedData.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>47E0380A297F41F524D220C888549FD5F57438C9</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:voidet/InfiniteNestedData.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>47E0380A297F41F524D220C888549FD5F57438C9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>47E0380A297F41F524D220C888549FD5F57438C9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>InfiniteNestedData</string>
+		</dict>
+	</array>
+</dict>
+</plist>
