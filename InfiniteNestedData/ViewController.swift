@@ -55,6 +55,10 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
 		}
 		return 0
 	}
+	
+	func tableView(tableView: UITableView, didSelectRowAtIndexPath indexPath: NSIndexPath) {
+		self.performSegueWithIdentifier("showNextPage", sender: self)
+	}
 
 	func tableView(tableView: UITableView, cellForRowAtIndexPath indexPath: NSIndexPath) -> UITableViewCell {
 		

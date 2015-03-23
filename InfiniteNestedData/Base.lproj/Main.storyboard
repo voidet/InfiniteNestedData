@@ -42,7 +42,16 @@
                                         </tableViewCellContentView>
                                         <connections>
                                             <outlet property="infoLabel" destination="Qlz-No-yLO" id="7ub-Vl-QkJ"/>
-                                            <segue destination="BYZ-38-t0r" kind="show" identifier="showNextPage" id="0Cy-lB-MZ6"/>
+                                        </connections>
+                                    </tableViewCell>
+                                    <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" id="dr3-Wk-16a" userLabel="FakeCell">
+                                        <rect key="frame" x="0.0" y="0.0" width="600" height="44"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                        <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="dr3-Wk-16a" id="2cC-5q-y2O">
+                                            <autoresizingMask key="autoresizingMask"/>
+                                        </tableViewCellContentView>
+                                        <connections>
+                                            <segue destination="BYZ-38-t0r" kind="show" identifier="showNextPage" id="jcV-oa-nxO"/>
                                         </connections>
                                     </tableViewCell>
                                 </prototypes>
