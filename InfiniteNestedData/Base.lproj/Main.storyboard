@@ -51,7 +51,7 @@
                                             <autoresizingMask key="autoresizingMask"/>
                                         </tableViewCellContentView>
                                         <connections>
-                                            <segue destination="BYZ-38-t0r" kind="show" identifier="showNextPage" id="jcV-oa-nxO"/>
+                                            <segue destination="BYZ-38-t0r" kind="show" id="ZQV-j2-HuB"/>
                                         </connections>
                                     </tableViewCell>
                                 </prototypes>
